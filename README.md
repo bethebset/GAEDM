@@ -1,4 +1,4 @@
-<h1 align="center">GAEDM: A Novel Genetic Algorithm-Enhanced Model for Detecting API Hashing Obfuscation in Malware</h1>
+<h1 align="center">GAEDM:Genetic Algorithm-Enhanced Static Analysis for Detection of API Hashing Obfuscation in Malware</h1>
 
 <h4 align="center">
 <p>
